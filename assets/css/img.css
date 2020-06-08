@@ -1,0 +1,11 @@
+img.top {
+  position: absolute;
+  top: 0px;
+  z-index: 1;
+}
+
+img.right {
+  position: absolute;
+  left: 20px;
+  z-index: -1;
+}
